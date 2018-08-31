@@ -12,12 +12,8 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "cheerio": "^1.0.0-rc.2",
-    "download-to-file": "^2.1.0",
     "express": "^4.16.3",
-    "node-fetch": "^2.2.0",
     "node-powershell": "^3.3.1",
-    "node-wget": "^0.4.2",
-    "node-wget-promise": "^0.1.6",
     "puppeteer": "^1.7.0"
   }
 }
